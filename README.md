@@ -37,6 +37,9 @@ Este proyecto analiza los factores que han incrementado el consumo de combustibl
 
 El proyecto se organiza en un flujo que comienza con la recopilación de datos históricos sobre emisiones de carbono de la plataforma **Our World in Data**, seguidos por una etapa de limpieza y estructuración de los datos utilizando **Pandas** para asegurar su calidad. Posteriormente, los datos son analizados y visualizados mediante gráficos creados con **Matplotlib** y **Seaborn**, permitiendo identificar tendencias y comparaciones clave. Finalmente, los resultados se integran en una aplicación interactiva desarrollada con **Flet**, donde los usuarios pueden explorar los análisis y personalizar la visualización de forma sencilla e intuitiva.
 
+![image](https://github.com/user-attachments/assets/f0598052-1fcb-4f7f-b88b-f82602823acd)
+
+
 # Proceso de desarrollo
 
 - Fuente del dataset: [CO₂ and Greenhouse Gas Emissions - Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions#explore-data-on-co2-and-greenhouse-gas-emissions)
