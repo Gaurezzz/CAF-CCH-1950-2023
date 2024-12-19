@@ -16,7 +16,7 @@ El proyecto compara las emisiones y los patrones de contaminación entre ambos g
   
 4. [Proceso](#Proceso)
   
-5. [Funcionalidades](#Funcionalidades extra)
+5. [Funcionalidades](#Funcionalidadesextra)
   
 6. [Estado del proyecto](#EstadoDelProyecto)
   
